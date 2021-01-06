@@ -11,4 +11,4 @@ Then open [http://localhost:3000](http://localhost:3000) to view it in the brows
 
 Creates a simple use case of Recharts library. See demo below:
 
-https://github.com/SoniaDumitru/covid-19-Country-Comparison-Graph/blob/master/covid-chart.gif
+![alt-text](https://github.com/SoniaDumitru/covid-19-Country-Comparison-Graph/blob/master/covid-chart.gif)
