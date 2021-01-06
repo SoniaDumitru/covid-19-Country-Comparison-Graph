@@ -38,7 +38,6 @@ function App() {
     }
 
     const countriesList = apiValue.split('\n').slice(1).map(line => (line.split(',').slice(0, 2)));
-    console.log(countriesList)
     const countriesArr = [];
     for (let i = 0; i < countriesList.length; i++) {
       countriesArr.push({ label: countriesList[i].reverse().join(' '), value: i + 1 })
@@ -46,7 +45,7 @@ function App() {
 
     setFirstLable(firstLbl);
     setSecondLable(secondLbl);
-    setOptions(countriesArr)
+    setOptions(countriesArr);
     setData(formatData);
     setIsLoading(false);
     return null;
