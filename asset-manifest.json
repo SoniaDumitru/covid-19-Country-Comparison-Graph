@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SoniaDumitru/covid-19-country-comparison-graph/static/css/main.b038e841.chunk.css",
+    "main.js": "/SoniaDumitru/covid-19-country-comparison-graph/static/js/main.d224db74.chunk.js",
+    "main.js.map": "/SoniaDumitru/covid-19-country-comparison-graph/static/js/main.d224db74.chunk.js.map",
+    "runtime-main.js": "/SoniaDumitru/covid-19-country-comparison-graph/static/js/runtime-main.cdbc8bec.js",
+    "runtime-main.js.map": "/SoniaDumitru/covid-19-country-comparison-graph/static/js/runtime-main.cdbc8bec.js.map",
+    "static/js/2.081ab955.chunk.js": "/SoniaDumitru/covid-19-country-comparison-graph/static/js/2.081ab955.chunk.js",
+    "static/js/2.081ab955.chunk.js.map": "/SoniaDumitru/covid-19-country-comparison-graph/static/js/2.081ab955.chunk.js.map",
+    "index.html": "/SoniaDumitru/covid-19-country-comparison-graph/index.html",
+    "precache-manifest.03a13673093f2370fdd2f36f0e09ec0d.js": "/SoniaDumitru/covid-19-country-comparison-graph/precache-manifest.03a13673093f2370fdd2f36f0e09ec0d.js",
+    "service-worker.js": "/SoniaDumitru/covid-19-country-comparison-graph/service-worker.js",
+    "static/css/main.b038e841.chunk.css.map": "/SoniaDumitru/covid-19-country-comparison-graph/static/css/main.b038e841.chunk.css.map",
+    "static/js/2.081ab955.chunk.js.LICENSE.txt": "/SoniaDumitru/covid-19-country-comparison-graph/static/js/2.081ab955.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdbc8bec.js",
+    "static/js/2.081ab955.chunk.js",
+    "static/css/main.b038e841.chunk.css",
+    "static/js/main.d224db74.chunk.js"
+  ]
+}
