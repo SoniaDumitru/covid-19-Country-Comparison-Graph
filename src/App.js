@@ -13,7 +13,7 @@ function App() {
   const [isLoading, setIsLoading] = useState(true);
   const [options, setOptions] = useState([])
   const [firstLabel, setFirstLable] = useState('US');
-  const [secondLable, setSecondLable] = useState('ROMANIA');
+  const [secondLabel, setSecondLabel] = useState('ROMANIA');
   const [firstSelect, setFirstSelect] = useState(212);
   const [secondSelect, setSecondSelect] = useState(249);
 
@@ -44,7 +44,7 @@ function App() {
     }
 
     setFirstLable(firstLbl);
-    setSecondLable(secondLbl);
+    setSecondLabel(secondLbl);
     setOptions(countriesArr);
     setData(formatData);
     setIsLoading(false);
@@ -90,8 +90,8 @@ function App() {
         <div className="content-wrap">
           <Graph 
             data={data} 
-            label_1={firstLabel} 
-            label_2={secondLable} 
+            firstLabel={firstLabel} 
+            secondLabel={secondLabel} 
           />
           <div className="selector-wrap">
             <Select 

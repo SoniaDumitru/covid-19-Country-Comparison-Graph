@@ -1,13 +1,8 @@
-.App {
-  text-align: center;
-}
-
 .app-wrap {
   align-items: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
-
 }
 
 .content-wrap {
